@@ -1,0 +1,8 @@
+Encrypted Point for t{ (394,182),(591,479) }
+Point for t:( 671, 169 )
+Encrypted Point for e{ (394,182),(193,11) }
+Point for e:( 332, 111 )
+Encrypted Point for s{ (394,182),(593,319) }
+Point for s:( 647, 72 )
+Encrypted Point for t{ (394,182),(591,479) }
+Point for t:( 671, 169 )
